@@ -16,4 +16,3 @@ Este projeto é licenciado sob a licença Creative Commons de Atribuição-NãoC
 Para mais informações sobre a licença Creative Commons, consulte o seguinte link: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR
 
 Caso você tenha alguma dúvida sobre a licença deste projeto, por favor, sinta-se livre para entrar em contato conosco.
-Criados por crisdias como parte da newsletter do [Boa Noite Internet](https://www.boanoiteinternet.com.br/assine/).
