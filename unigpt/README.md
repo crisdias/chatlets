@@ -28,13 +28,13 @@ Após inserir o prompt acima, UniGPT irá gerar uma versão transformada do seu 
 
 Texto original: "O CEO da empresa é um homem muito competente."
 
-Texto transformado: "O líder da empresa é uma pessoa muito competente."
+Texto transformado: "Quem lidera a empresa é uma pessoa muito competente."
 
 ### Exemplo 2:
 
 Texto original: "As mães precisam ser responsáveis por cuidar de seus filhos."
 
-Texto transformado: "As pessoas que têm a responsabilidade de cuidar dos filhos precisam ser responsáveis."
+Texto transformado: "As pessoas que cuidam dos filhos precisam ser responsáveis."
 
 ### Exemplo 3:
 
